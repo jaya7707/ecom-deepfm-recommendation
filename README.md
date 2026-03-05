@@ -144,11 +144,7 @@ python app.py
 
 ---
 
-## 👥 Team
 
-**Jaya Srivastava** — Dataset design, model training, deployment
-
----
 
 ## 📄 References
 
